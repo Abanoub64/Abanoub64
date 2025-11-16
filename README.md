@@ -17,23 +17,18 @@
 ###
 </p>
 
-<p align="center">
+<p  align="center">
+  
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abanoub-milad-7941a020a/)
 
-  <a href="https://www.linkedin.com/in/abanoub-milad-7941a020a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+   [![LeetCode](https://img.shields.io/badge/LeetCode-Abanoub64-yellow?logo=leetcode&style=plastic)](https://leetcode.com/Abanoub64)
 
-  <a href="https://leetcode.com/Abanoub64">
-    <img src="https://img.shields.io/badge/LeetCode-Abanoub64-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
-  </a>
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/~016cadf071dc2855d5?mp_source=share)
 
-  <a href="https://www.upwork.com/freelancers/~016cadf071dc2855d5?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white&style=for-the-badge" />
-  </a>
+[![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abanoubmilad64@gmail.com)
 
-  <a href="mailto:abanoubmilad64@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
+
 
 </p>
 ###
@@ -98,6 +93,7 @@
   
   ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abanoub64&show_icons=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abanoub64&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
