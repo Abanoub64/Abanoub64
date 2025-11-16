@@ -22,16 +22,15 @@
  <a href="https://www.linkedin.com/in/abanoub-milad-7941a020a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AbanoubMilad"/>
  </a>
-  
+
+   [![LeetCode](https://img.shields.io/badge/LeetCode-Abanoub64-yellow?logo=leetcode&style=plastic)](https://leetcode.com/Abanoub64)
+
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/~016cadf071dc2855d5?mp_source=share)
+
+[![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abanoubmilad64@gmail.com)
 
 
- 
 
- 
-
-
-
- 
 </p>
 ###
 <h2 align="left">About me</h2>
@@ -88,18 +87,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
 <div align="center" style="width: 100%">
+  
   ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abanoub64&show_icons=true&theme=tokyonight)
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Abanoub64-yellow?logo=leetcode&style=plastic)](https://leetcode.com/Abanoub64)
 
 </div>
 
