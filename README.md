@@ -46,7 +46,7 @@
 
 <p align="left">  <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />  <br/>
-🎓   Graduated From Faculty of Engineering.<br>🎓   Graduated From Information Technology Institute (ITI).<br>- internship in Route Academy<br>⭐   Love writing clean code.<br>🏅   Enjoy Breaking Records and Earning Certificates and Badges<br>💬   Ask me about anything</p>
+🎓   Graduated From Faculty of Engineering.<br>🎓   Graduated From Information Technology Institute (ITI).<br>- internship in Route Academy<br>⭐   Love writing clean code.<br>🏅   Enjoy Breaking Records and Earning Certificates and Badges<br></p>
 
 ###
 
