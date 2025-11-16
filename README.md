@@ -4,19 +4,43 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
+<h3 align="center">
+        <samp>&gt; Hi!, My name is
+                <b>Abanoub Milad</b>
+        </samp>
+</h3>
+<p align="center"> 
+  <samp>
+    「 I am a passionate Full-Stack Software Engineer (Native/Cross-Platform) with Bachelor’s degree in Engineering from <b>Egypt</b> 」
+  </samp>
+</p>
 ###
+</p>
 
-<p align="left">My name is Abanoub and I'm a software engineer.
+<p align="center">
+  
+ <a href="https://www.linkedin.com/in/abanoub-milad-7941a020a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AbanoubMilad"/>
+ </a>
+  
 
+
+ 
+
+ 
+
+
+
+ 
+</p>
 ###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🎓   Graduated From Faculty of Engineering.<br>🎓   Graduated From Information Technology Institute (ITI).<br>- internship in Route Academy<br>⭐   Love writing clean code.<br>🏅   Enjoy Breaking Records and Earning Certificates and Badges<br>💬   Ask me about anything</p>
+<p align="left">  <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
+ <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />  <br/>
+🎓   Graduated From Faculty of Engineering.<br>🎓   Graduated From Information Technology Institute (ITI).<br>- internship in Route Academy<br>⭐   Love writing clean code.<br>🏅   Enjoy Breaking Records and Earning Certificates and Badges<br>💬   Ask me about anything</p>
 
 ###
 
@@ -73,15 +97,10 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Abanoub64/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Abanoub64/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Abanoub64/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Abanoub64/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Abanoub64/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Abanoub64/2" alt="Medium post 3"  />
-  </a>
+  ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abanoub64&show_icons=true&theme=tokyonight)
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Abanoub64-yellow?logo=leetcode&style=plastic)](https://leetcode.com/Abanoub64)
+
 </div>
 
 ###
