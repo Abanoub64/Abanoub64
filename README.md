@@ -18,18 +18,22 @@
 </p>
 
 <p align="center">
-  
- <a href="https://www.linkedin.com/in/abanoub-milad-7941a020a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AbanoubMilad"/>
- </a>
 
-   [![LeetCode](https://img.shields.io/badge/LeetCode-Abanoub64-yellow?logo=leetcode&style=plastic)](https://leetcode.com/Abanoub64)
+  <a href="https://www.linkedin.com/in/abanoub-milad-7941a020a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/~016cadf071dc2855d5?mp_source=share)
+  <a href="https://leetcode.com/Abanoub64">
+    <img src="https://img.shields.io/badge/LeetCode-Abanoub64-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
+  </a>
 
-[![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abanoubmilad64@gmail.com)
+  <a href="https://www.upwork.com/freelancers/~016cadf071dc2855d5?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white&style=for-the-badge" />
+  </a>
 
-
+  <a href="mailto:abanoubmilad64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 
 </p>
 ###
