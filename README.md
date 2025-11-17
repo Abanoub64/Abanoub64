@@ -94,7 +94,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+## 🔥 **Featured Projects**
 
+|     | Project                                                                      | Tech Stack                                                                                                                                                                                | Highlights                                        | Live Demo                                                          |
+| --- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
+| 📑  | [My Portfolio](https://portfolio-using-next-9jps.vercel.app/)                             | ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql) | GraphQL • 2FA • RBAC • Session Tracking           | [Live](https://portfolio-using-next-9jps.vercel.app/)                               |
+| 🎬  | [Movie App](https://flourishing-marshmallow-97ca80.netlify.app/)                                  | ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Stripe](https://img.shields.io/badge/Stripe-purple)  | Multi-Role Auth • Admin Panel • Secure Checkout   | [Live](https://flourishing-marshmallow-97ca80.netlify.app/)                             |
+| 🕍  | [Church Management System](https://st-demiana-client.vercel.app/)          | ![React Native](https://img.shields.io/badge/React_Native-blue?logo=react) ![Laravel](https://img.shields.io/badge/Laravel-red)                                                           | Cart Auth • Redux • Android Ready                 | [Live](https://st-demiana-client.vercel.app/)        |
+| 🏥 | [Hospital Management System](https://github.com/Abanoub64/Hospital-Management-System) | ![React Native](https://img.shields.io/badge/React_Native-blue?logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-purple?logo=tailwind-css)                                    | AsyncStorage • API Integration                    | [Repo](https://github.com/Abanoub64/Hospital-Management-System) |
+
+**👉 [Explore All Projects →](#all-projects)**
+
+---
 ###
 
 <div align="center" style="width: 100%">
