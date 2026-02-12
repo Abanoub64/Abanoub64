@@ -106,14 +106,4 @@
 **👉 [Explore All Projects →](#all-projects)**
 
 ---
-###
 
-<div align="center" style="width: 100%">
-  
-  ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abanoub64&show_icons=true&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abanoub64&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-###
