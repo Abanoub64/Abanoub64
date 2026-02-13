@@ -98,42 +98,11 @@
 
 |     | Project | Tech Stack | Key Highlights | Live / Repo |
 |-----|---------|------------|---------------|-------------|
-
-| 💈 | **[Barbershop Management System](#)** | 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular) 
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?logo=dotnet) 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | 
-ERP-Capable Architecture • Multi-Role Access (Admin / Barber / Customer) • Smart Appointment Scheduling • AI Integration • Admin Dashboard • Secure JWT Authentication | 
-[Demo](https://www.linkedin.com/posts/abanoub-milad-7941a020a_sharks-management-system-iti-graduation-activity-7422675942520651776-oNPK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUQmmABC5zcnw68rwt1C0wbhiJ_35at0JY) |
-
-| 📑 | **[My Portfolio](https://portfolio-using-next-9jps.vercel.app/)** | 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | 
-SEO Optimized • Dynamic Routing • Component-Based Architecture • Performance Optimized • Responsive Design | 
-[Live](https://portfolio-using-next-9jps.vercel.app/) |
-
-| ⛪ | **[Church Management System](https://st-demiana-client.vercel.app/)** | 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react) 
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | 
-Enterprise Data Management • Secure Authentication • Dynamic Report Generation • Role-Based Authorization • Responsive Admin Dashboard | 
-[Live](https://st-demiana-client.vercel.app/) |
-
-| 🏥 | **[Hospital Management System](https://github.com/Abanoub64/Hospital-Management-System)** | 
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet) 
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver) | 
-Desktop-Based Enterprise System • Patient & Appointment Management • Role-Based Authorization • Layered Architecture • SQL Server Integration | 
-[Repo](https://github.com/Abanoub64/Hospital-Management-System) |
-
-| 🎬 | **[Movie App](https://flourishing-marshmallow-97ca80.netlify.app/)** | 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | 
-Role-Based Access Control • Admin Dashboard • REST API Integration • Modular Architecture • Responsive UI | 
-[Live](https://flourishing-marshmallow-97ca80.netlify.app/) |
+| 💈 | **[Barbershop Management System](#)** | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular) ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?logo=dotnet) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | ERP-Capable Architecture • Multi-Role Access (Admin / Barber / Customer) • Smart Appointment Scheduling • AI Integration • Admin Dashboard • Secure JWT Authentication | [Demo](https://www.linkedin.com/posts/abanoub-milad-7941a020a_sharks-management-system-iti-graduation-activity-7422675942520651776-oNPK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUQmmABC5zcnw68rwt1C0wbhiJ_35at0JY) |
+| 📑 | **[My Portfolio](https://portfolio-using-next-9jps.vercel.app/)** | ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | SEO Optimized • Dynamic Routing • Component-Based Architecture • Performance Optimized • Responsive Design | [Live](https://portfolio-using-next-9jps.vercel.app/) |
+| ⛪ | **[Church Management System](https://st-demiana-client.vercel.app/)** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | Enterprise Data Management • Secure Authentication • Dynamic Report Generation • Role-Based Authorization • Responsive Admin Dashboard | [Live](https://st-demiana-client.vercel.app/) |
+| 🏥 | **[Hospital Management System](https://github.com/Abanoub64/Hospital-Management-System)** | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver) | Desktop-Based Enterprise System • Patient & Appointment Management • Role-Based Authorization • Layered Architecture • SQL Server Integration | [Repo](https://github.com/Abanoub64/Hospital-Management-System) |
+| 🎬 | **[Movie App](https://flourishing-marshmallow-97ca80.netlify.app/)** | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | Role-Based Access Control • Admin Dashboard • REST API Integration • Modular Architecture • Responsive UI | [Live](https://flourishing-marshmallow-97ca80.netlify.app/) |
 
 
 **👉 [Explore All Projects →]([#all-projects](https://portfolio-using-next-9jps.vercel.app/))**
