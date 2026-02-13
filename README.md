@@ -105,7 +105,7 @@
 | 🎬 | **[Movie App](https://flourishing-marshmallow-97ca80.netlify.app/)** | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) | Role-Based Access Control • Admin Dashboard • REST API Integration • Modular Architecture • Responsive UI | [Live](https://flourishing-marshmallow-97ca80.netlify.app/) |
 
 
-**👉 [Explore All Projects →]([#all-projects](https://portfolio-using-next-9jps.vercel.app/))**
+**👉 [Explore All Projects →](https://portfolio-using-next-9jps.vercel.app/)**
 
 ---
 
